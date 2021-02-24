@@ -20,4 +20,4 @@ except:
 
 xp = computepay(fh, fr)
 
-print("Pay:", xp)
+print("You deserve:", xp)
