@@ -6,3 +6,6 @@ General comprehension on Python from the bottom.
 
 #### Editor
 - PyCharm / Atom / Sublime Text
+
+#### Grader
+- PY4E Autograder
