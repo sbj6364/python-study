@@ -1,4 +1,5 @@
 text = "X-DSPAM-Confidence: 0.8475"
 
 pos = text.find(':')
-print(float(text[pos+2:]))
+value = float(text[pos+2:])
+print(value)
