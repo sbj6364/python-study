@@ -19,3 +19,6 @@ for i in range(4): # move to answer list
 swap(ans[1])
 swap(ans[3])
 print(ans)
+
+# print([list(i) for i in list(zip(a,b))])
+# list(map(list,zip(a,b)))
