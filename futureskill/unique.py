@@ -1,0 +1,5 @@
+a = input()
+a_unique = ''.join(set(a))
+b = sorted(a_unique)
+c = ''.join(b)
+print(c)
