@@ -8,7 +8,8 @@ General comprehension on Python from the bottom.
 - PY4E Basic / PY4E Data Structure
 
 #### Editor
-- PyCharm / Atom / Sublime Text
+- PyCharm
 
 #### Grader
 - PY4E Autograder
+- Future Skill
