@@ -3,8 +3,6 @@
 
 
 
-
-
 ## Introduction
 
 > 본 directory 모든 학습내용의 출처는 [FutureSkill](https://futureskill.io/)의 [Contents](https://futureskill.io/content/79eba49a-178d-41be-8f88-137a5127742d)입니다.
@@ -19,33 +17,10 @@
 
 
 
-### 1번 : creation
-
-주어진 Python list L 을 이용하여 Numpy array로 변환하는 코드를 작성해보세요.
-
-#### 베이스라인
-
-```python
-L = [1, 2, 3, 4, 5]
-
-'''
-code here
-'''
-```
-
-
-
-### 2번 : creation (2)
-
-원소가 모두 0이고 크기가 10인 numpy array를 생성하는 코드를 작성해보세요.
-
-#### Output
-
-```python
-array([0., 0., 0., 0., 0., 0., 0., 0., 0., 0.])
-```
-
-
+1. Creation
+2. Creation(2)
+3. Creation(3)
+4. 
 
 
 
@@ -61,10 +36,10 @@ array([0., 0., 0., 0., 0., 0., 0., 0., 0., 0.])
 
 #### Contents
 
-- Future Skill
+- [Future Skill](https://futureskill.io/)
 
 #### Course
-- [Python Data Analysis & Image Processing] - Dongbin Na
+- [[Python Data Analysis & Image Processing] - Dongbin Na](https://www.youtube.com/playlist?list=PLRx0vPvlEmdBx9X5xSgcEk4CEbzEiws8C)
 
 #### Editor
-- PyCharm / Colab
+- [**Colab**](https://colab.research.google.com/) / PyCharm
