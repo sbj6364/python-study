@@ -20,11 +20,31 @@
 1. Creation
 2. Creation(2)
 3. Creation(3)
-4. 
-
-
-
-
+4. Creation(4)
+5. Creation(5)
+6. array data type
+7. array data type (2)
+8. indexing
+9. indexing (2)
+10. fancy indexing
+11. array masking
+12. max min
+13. max min indexing
+14. concat
+15. concat (2)
+16. vector
+17. vector (2)
+18. broadcasting
+19. broadcasting (2)
+20. reshaping
+21. reshaping (2)
+22. math function
+23. math function (2)
+24. math function (3)
+25. sorting
+26. sorting (2)
+27. sorting (3)
+28. sorting (4)
 
 
 
