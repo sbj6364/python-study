@@ -18,10 +18,10 @@
 
 
 1. creation
-2. creation(2)
-3. creation(3)
-4. creation(4)
-5. creation(5)
+2. creation (2)
+3. creation (3)
+4. creation (4)
+5. creation (5)
 6. array data type
 7. array data type (2)
 8. indexing
