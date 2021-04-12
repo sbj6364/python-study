@@ -50,8 +50,6 @@
 
 ## Numpy Data type
 
-> **reference** [Numpy documentation](https://numpy.org/devdocs/user/basics.types.html#array-types-and-conversions-between-types)
-
 `numpy.bool` : `bool` Boolean (True or False) stored as a byte
 
 `numpy.byte` : `signed char` Platform-defined
@@ -88,11 +86,10 @@
 
 `numpy.clongdouble` : `long double complex` Complex number, represented by two extended-precision floats (real and imaginary components).  
 
+> **reference** [Numpy documentation](https://numpy.org/devdocs/user/basics.types.html#array-types-and-conversions-between-types)  
 
 
-> **reference** [FutureSkill 김용담 creator](https://futureskill.io/content/79eba49a-178d-41be-8f88-137a5127742d/question/ced42779-2980-46d6-90a5-8d4d2f1e6c61)
-
-
+​    
 
 platform에 따라 달라지는 data type을 제외하면 다음과 같다.
 
@@ -116,7 +113,15 @@ platform에 따라 달라지는 data type을 제외하면 다음과 같다.
      모두 fixed-floating 타입을 나타내며 뒤에 따라오는 숫자에 따라 표현 범위가 정해짐.  
      (float16도 있으나, platform-dependent)  
 
-     > e.g. `float32`(single precision, sign bit + 8 bits exponent + 23 bits mantissa)
+     > e.g. `float32`(single precision, sign bit + 8 bits exponent + 23 bits mantissa)  
+
+  
+  
+
+
+> **reference** [FutureSkill 김용담 creator](https://futureskill.io/content/79eba49a-178d-41be-8f88-137a5127742d/question/ced42779-2980-46d6-90a5-8d4d2f1e6c61)
+
+
 
 
 
