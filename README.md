@@ -1,4 +1,4 @@
-# python-practice
+# Python Study
 General comprehension on Python from the bottom.
 
 #### Contents
