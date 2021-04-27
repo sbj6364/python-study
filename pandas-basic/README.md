@@ -66,58 +66,7 @@ below is to update
 
 `numpy.uintc` : `unsigned int` Platform-defined
 
-`numpy.int_` : `long` Platform-defined
 
-`numpy.uint` : `unsigned long` Platform-defined
-
-`numpy.longlong` : `long long` Platform-defined
-
-`numpy.ulonglong` : `unsigned long long` Platform-defined
-
-`numpy.half` / `numpy.float16` : Half precision float: sign bit, 5 bits exponent, 10 bits mantissa
-
-`numpy.single` : `float` Platform-defined single precision float: typically sign bit, 8 bits exponent, 23 bits mantissa
-
-`numpy.double` : `double` Platform-defined double precision float: typically sign bit, 11 bits exponent, 52 bits mantissa.
-
-`numpy.longdouble` : `long double` Platform-defined extended-precision float
-
-`numpy.csingle` : `float complex` Complex number, represented by two single-precision floats (real and imaginary components)
-
-`numpy.cdouble` : `double complex` Complex number, represented by two double-precision floats (real and imaginary components)
-
-`numpy.clongdouble` : `long double complex` Complex number, represented by two extended-precision floats (real and imaginary components).  
-
-> **reference** [Numpy documentation](https://numpy.org/devdocs/user/basics.types.html#array-types-and-conversions-between-types)  
-
-
-​    
-
-platform에 따라 달라지는 data type을 제외하면 다음과 같다.
-
-1. **Integer** 계열
-
-   - `int8`, `int16`, `int32`, `int64`  
-     모두 Integer를 나타내며 뒤에 따라오는 숫자에 따라 표현 범위가 정해짐.  
-
-     > e.g. `int8`(8bytes) : -128 ~ 127
-
-   - `uint8`, `uint16`, `uint32`, `uint64`    
-     모두 unsigned integer를 나타내며 뒤에 따라오는 숫자에 따라 표현 범위가 정해짐.  
-
-     > e.g. `uint16`(16bytes) : 0 ~ 65535
-
-
-
-2. **Floating-point** 계열
-
-   - `float32`, `float64`  
-     모두 fixed-floating 타입을 나타내며 뒤에 따라오는 숫자에 따라 표현 범위가 정해짐.  
-     (float16도 있으나, platform-dependent)  
-
-     > e.g. `float32`(single precision, sign bit + 8 bits exponent + 23 bits mantissa)  
-
-  
 
 
 
@@ -140,7 +89,6 @@ platform에 따라 달라지는 data type을 제외하면 다음과 같다.
 - [Future Skill](https://futureskill.io/)
 
 #### Course
-- [[Python Data Analysis & Image Processing] - Dongbin Na](https://www.youtube.com/playlist?list=PLRx0vPvlEmdBx9X5xSgcEk4CEbzEiws8C)
 - [Youtube Minsuk Heo 허민석](https://www.youtube.com/channel/UCxP77kNgVfiiG6CXZ5WMuAQ)
   - [[Pandas 강의\] 팬더스, 데이터프레임, 시리즈 알아보기](https://www.youtube.com/watch?list=PLVNY1HnUlO26Igldy2Q6Nb2LZbpQWTyle&v=pFXipjh0ghw&feature=emb_logo) 
 
