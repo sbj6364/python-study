@@ -2,14 +2,14 @@
 General comprehension on Python from the bottom.
 
 #### Contents
-- Future Skill
-- Numpy Basic
-- Pandas Basic
-- Matplotlib Basic
+- [Numpy Basic](https://github.com/sbj6364/python-study/tree/main/numpy-basic)
+- [Pandas Basic](https://github.com/sbj6364/python-study/tree/main/pandas-basic)
+- [Matplotlib Basic](https://github.com/sbj6364/python-study/tree/main/matplotlib-basic)
+- [Future Skill problem set](https://github.com/sbj6364/python-study/tree/main/futureskill)
 
 #### Course
-- PY4E Basic / PY4E Data Structure
-- Future Skill
+- [PY4E](https://www.py4e.com/) (Basic / Data Structure)
+- [Future Skill](https://futureskill.io/)
 
 #### Editor
 - Colab / PyCharm
