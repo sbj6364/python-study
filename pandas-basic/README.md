@@ -50,29 +50,47 @@ Pandas를 통해서 우리는 정형 데이터 분석을 손쉽게 할 수 있�
 
 below is to update
 
-## Numpy Data type
+## Dataframes
 
-`numpy.bool` : `bool` Boolean (True or False) stored as a byte
-
-`numpy.byte` : `signed char` Platform-defined
-
-`numpy.ubyte` : `unsigned char` Platform-defined
-
-`numpy.short` : `short` Platform-defined
-
-`numpy.ushort` : `unsigned short` Platform-defined
-
-`numpy.intc` : `int` Platform-defined
-
-`numpy.uintc` : `unsigned int` Platform-defined
+본 study set 에서 쓰이는 dataframes는 다음과 같다.
 
 
+
+- `df_A`
+
+  열의 이름은 A, B, C, D이고 각 열마다 5개의 random한(임의의) 숫자를 원소로 하는 DataFrame에, index로 2020년 1월 1일 부터 2020년 1월 5일까지의 날짜를 지정한 코드
+
+  ~~~python
+  import pandas as pd
+  import numpy as np
+  
+  from datetime import datetime
+  dt_index = pd.date_range('2020-01-01', periods=5)
+  
+  ar = np.random.randn(5,4)
+  df = pd.DataFrame(data = ar, columns=['A','B','C','D'], index = dt_index)
+  df
+  ~~~
+
+  <img src="/Users/seobj/Desktop/DEV/python-practice/pandas-basic/img/df_a.png" alt="df_a" style="zoom:50%;border:none" />  
+
+- `df_b`
+
+  ~~~python
+  import pandas as pd
+  import numpy as np
+  
+  df = pd.DataFrame(columns=list('ABCD'))
+  for i in range(12):
+    df.loc[i] = ['A'+str(i), 'B'+str(i), 'C'+str(i),'D'+str(i)]
+  df
+  ~~~
+
+  <img src="/Users/seobj/Desktop/DEV/python-practice/pandas-basic/img/df_b.png" alt="df_b" style="zoom:50%;border:none" />  
 
 
 
 > **reference** [FutureSkill 김용담 creator](https://futureskill.io/content/79eba49a-178d-41be-8f88-137a5127742d/question/ced42779-2980-46d6-90a5-8d4d2f1e6c61)
-
-
 
 
 
