@@ -72,7 +72,7 @@ below is to update
   df
   ~~~
 
-  <img src="/Users/seobj/Desktop/DEV/python-practice/pandas-basic/img/df_a.png" alt="df_a" style="zoom:50%;border:none" />  
+  <img src="img/df_a.png" alt="df_a" style="zoom:50%;border:none" />  
 
 - `df_b`
 
@@ -86,7 +86,7 @@ below is to update
   df
   ~~~
 
-  <img src="/Users/seobj/Desktop/DEV/python-practice/pandas-basic/img/df_b.png" alt="df_b" style="zoom:50%;border:none" />  
+  <img src="img/df_b.png" alt="df_b" style="zoom:50%;border:none" />  
 
 
 
