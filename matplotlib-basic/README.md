@@ -31,30 +31,10 @@ https://jehyunlee.github.io/2020/09/09/Python-DS-31-seaborn_upgrade
 
 ## Contents
 
-> below is to update
-
-1. creation
-2. creation (2)
-3. creation (3)
-4. creation (4)
-
-
-
-## Numpy Data type
-
-`numpy.bool` : `bool` Boolean (True or False) stored as a byte
-
-`numpy.byte` : `signed char` Platform-defined
-
-`numpy.ubyte` : `unsigned char` Platform-defined
-
-
-
-
-
-
-
----
+1. basic line plot
+2. title, bar plot
+3. range, scatter plot
+4. scaling, sub plot
 
 
 
