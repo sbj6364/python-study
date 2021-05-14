@@ -47,9 +47,6 @@ Pandas를 통해서 우리는 정형 데이터 분석을 손쉽게 할 수 있�
 26. pivot table
 
 
-
-below is to update
-
 ## Dataframes
 
 본 study set 에서 쓰이는 dataframes는 다음과 같다.
