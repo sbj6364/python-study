@@ -99,7 +99,7 @@ Pandas를 통해서 우리는 정형 데이터 분석을 손쉽게 할 수 있�
 
 
 
-#### Contents
+#### Reference
 
 - [Future Skill](https://futureskill.io/)
 
